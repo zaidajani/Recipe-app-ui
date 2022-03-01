@@ -1,0 +1,23 @@
+[
+  {
+    "name": "keto salad",
+    "uri": "https://i.ytimg.com/vi/NhADKBXtj18/maxresdefault.jpg",
+    "ingridients": ["IceBerg letuce", "Cucumber", "Carrot", "Beet", "Jalepino", "Olives", "black pepper", "powdered salt", "Mayonaise"],
+    "instructional-video": "https://www.youtube.com/watch?v=KySQPcE6V2o",
+    "categories": ["veg", "vegetables", "special"]
+  },
+  {
+    "name": "French fries",
+    "uri": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG",
+    "ingridients": ["chopped potatoes", "salt", "oil"],
+    "instructional-video": "https://www.youtube.com/watch?v=SbZ2xI1Duxw",
+    "categories": ["veg", "vegetables", "special"]
+  },
+  {
+    "name": "Chilli Prawns",
+    "uri": "https://i.ytimg.com/vi/8fv98hfAe74/maxresdefault.jpg",
+    "ingridients": ["Deveined Prawns", "Soya Sauce", "All purpose flour", "Tomato ketchup", "Red chilli sauce", "Sugar", "Vinegar", "CornFlour", "Water", "Sessame oil", "Chopped Garlic", "garlic", "Chilli flakes", "Spring Onions"],
+    "instructional-video": "https://www.youtube.com/watch?v=8fv98hfAe74",
+    "categories": ["non-veg", "vegetables", "special"]
+  }
+]
